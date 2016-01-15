@@ -1,5 +1,5 @@
 # react-example
-A dead simple a React/ES6/Webpack example
+A dead simple React/ES6/Webpack example
 
 ## Usage
 
