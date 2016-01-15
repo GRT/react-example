@@ -6,7 +6,7 @@ A dead simple React/ES6/Webpack example
 ```
 $ git clone git@github.com:GRT/react-example.git
 $ cd react-example
-$ webpack
+$ npm i && webpack
 ```
 Open `index.html` in your browser.
 
@@ -15,6 +15,3 @@ Open `index.html` in your browser.
 ### React
 ### ES6/Babel
 ### Webpack
-
-
-[Pong module](https://github.com/ohall/react-pong) by Oakley Hall

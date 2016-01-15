@@ -30,7 +30,6 @@
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "react-pong": "^1.0.0"
+    "react-dom": "^0.14.6"
   }
 }
