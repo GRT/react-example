@@ -21,7 +21,7 @@ We'll author our source in [ES6](https://nodejs.org/en/docs/es6/) and [JSX](http
 
 ### Webpack
 [Webpack is a module bundler](https://webpack.github.io/) that we'll use to assemble all our modules into a single `bundle.js` file that you'll seein `/dist/bundle/js`.
-We'll also use this tool to apply Babel transpilation.
+We'll also use this tool to apply Babel transpilation. Check out [webpack.config.js](https://github.com/GRT/react-example/blob/master/webpack.config.js).
 
 ### NPM Scripts
 We'll use [NPM as our task running tool](https://docs.npmjs.com/misc/scripts).  This allows us to avoid dependencies on external tools like Grunt and Gulp while still getting a lot of the task automation goodness. 
