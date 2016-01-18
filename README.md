@@ -26,5 +26,6 @@ We'll also use this tool to apply Babel transpilation. Check out [webpack.config
 ### NPM Scripts
 We'll use [NPM as our task running tool](https://docs.npmjs.com/misc/scripts).  This allows us to avoid dependencies on external tools like Grunt and Gulp while still getting a lot of the task automation goodness. 
 
+---
 
 [Pong module](https://github.com/ohall/react-pong)
