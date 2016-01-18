@@ -14,9 +14,10 @@ Open `index.html` in your browser.
 ## Basic Concepts
 
 ### React
+We'l dive deeper in other docs, but suffice it to say, [React](https://facebook.github.io/react/) is the library we'll use to compose our user interfaces.
 
 ### ES6/JSX/Babel
-We'll author our source in [ES6](https://nodejs.org/en/docs/es6/) and [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) and use [Babel](https://babeljs.io/) to tranpile our modules to browser runnable ES5.
+We'll author our source in [ES6](https://nodejs.org/en/docs/es6/) and [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) and use [Babel](https://babeljs.io/) to transpile our modules to browser runnable ES5.
 
 ### Webpack
 Webpack is a module bundler that we'll use to assemble all our modules into a single `bundle.js` file that you'll seein `/dist/bundle/js`.
